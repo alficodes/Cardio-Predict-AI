@@ -108,8 +108,8 @@ Under 5-Fold Stratified Cross-Validation on the training partition:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AafiyaKulsum-21/Cardio-Predict-Ai.git
-cd Cardio-Predict-Ai
+git clone https://github.com/alficodes/Cardio-Predict-AI.git
+cd Cardio-Predict-AI
 ```
 
 ### 2. Create and Activate Virtual Environment

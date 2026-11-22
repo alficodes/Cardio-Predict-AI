@@ -16,7 +16,7 @@ c:\Users\Mir Shujath Ali\Downloads\machine learning 3\reports\Aafiya_Kulsum_Week
 FIELD 2: GitHub project URL (compulsory for technical internships)
 --------------------------------------------------------------------------------
 Paste your GitHub repository URL:
-https://github.com/AafiyaKulsum-21/Cardio-Predict-Ai
+https://github.com/alficodes/Cardio-Predict-AI
 
 
 FIELD 3: Write description for the report (Minimum 200 words)
